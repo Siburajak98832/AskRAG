@@ -2,7 +2,7 @@
 
 **AskRAG** is a Retrieval-Augmented Generation (RAG) based application that lets you ask questions from content found in PDFs, DOCX files, TXT files, raw text, or even URLs. It uses vector search with semantic embeddings and answers using the `HuggingFaceH4/zephyr-7b-beta` model through Hugging Face's inference API.
 
----
+
 
 ## 🚀 Features
 
@@ -17,5 +17,5 @@
 - 💡 Streamlit-based interactive web UI
 - 📚 Automatic chunking and embedding generation
 
----
+
 
